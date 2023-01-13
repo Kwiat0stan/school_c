@@ -1,0 +1,3 @@
+C:/Users/wojte/OneDrive/Dokumenty/GitHub/school_c/choinka/cmake-build-debug/CMakeFiles/choinka.dir
+C:/Users/wojte/OneDrive/Dokumenty/GitHub/school_c/choinka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/wojte/OneDrive/Dokumenty/GitHub/school_c/choinka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
